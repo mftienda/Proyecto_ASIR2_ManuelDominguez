@@ -17,20 +17,15 @@
 ## Índice del proyecto
 
 ### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1/ud1.md)
-1. Análisis del sector tecnológico    
-2. Selección de la empresa o contexto de trabajo  
-3. Identificación de necesidades tecnológicas  
-4. Oportunidades y viabilidad del proyecto  
-5. Obligaciones legales y normativas  
-6. Guion inicial del proyecto  
+1. Definir la empresa.
+2. Describir su contexto.
+3. Analizar las necesidades tecnológicas.
 ---
 
 ### [UD2 – Diseño técnico de la infraestructura empresarial segura y automatizada](./UD2/ud2.md)
-1. Recopilación de información técnica  
-2. Diseño lógico y físico de la infraestructura  
-3. Definición de objetivos y fases del proyecto  
-4. Recursos y presupuesto  
-5. Documentación técnica  
+1. Descripción de la infraestructura propuesta y justificación de las principales decisiones.
+2. Diagrama de la infraestructura.
+3. Plan de direccionamiento IPv4.
 
 ---
 

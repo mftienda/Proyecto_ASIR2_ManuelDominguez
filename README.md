@@ -16,31 +16,19 @@
 
 ## Índice del proyecto
 
-### [UD1 – Análisis del entorno y detección de necesidades tecnológicas](./UD1/ud1.md)
-1. Definir la empresa.
-2. Describir su contexto.
-3. Analizar las necesidades tecnológicas.
----
-
-### [UD2 – Diseño técnico de la infraestructura empresarial segura y automatizada](./UD2/ud2.md)
-1. Descripción de la infraestructura propuesta y justificación de las principales decisiones.
-2. Diagrama de la infraestructura.
-3. Plan de direccionamiento IPv4.
-
----
-
-### [UD3 – Planificación y ejecución del proyecto técnico](./UD3/ud3.md)
-1. Planificación de actividades  
-2. Gestión de recursos y logística  
-3. Procedimientos de ejecución  
-4. Gestión de riesgos y seguridad  
-5. Valoración económica y control de costes  
-
----
-
-### [UD4 – Seguimiento, control y evaluación del proyecto](./UD4/ud4.md)
-1. Procedimientos de seguimiento  
-2. Gestión de incidencias y cambios  
-3. Evaluación del proyecto  
-4. Documentación de cierre  
+1. Introducción y definición del proyecto
+2. Diseño de la infraestructura
+3. Entorno virtual y sistemas
+4. Servicios de red
+5. Gestión de usuarios y recursos
+6. Aplicación web y base de datos
+7. Seguridad y acceso remoto
+8. Protección y recuperación de datos
+9. Monitorización y automatización
+10. Servicios cloud
+11. Recursos y viabilidad económica
+12. Seguimiento, incidencias y control de calidad
+13. Conclusiones
+14. Bibliografía y fuentes consultadas
+15. Anexos
 
